@@ -66,7 +66,7 @@ It demonstrates how data-driven insights can be translated into actionable produ
 
 ---
 
-## 🛠 Tech & Tools Used
+##  Tech & Tools Used
 
 - **Python:** pandas, matplotlib, statsmodels
 - **Data Visualization:** Tableau / Power BI
